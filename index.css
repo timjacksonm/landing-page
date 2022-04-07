@@ -165,3 +165,29 @@ body {
   font-weight: 700;
   font-size: 32px;
 }
+
+.section3-content {
+  max-width: 70%;
+  width: 70%;
+  margin: 0 auto;
+  background-color: #3882f6;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em 0;
+}
+
+.flexcenter {
+  display: flex;
+  align-items: center;
+}
+
+.section3-text {
+  color: #e1e1e1;
+}
+
+.section3-signup {
+  border: 2px solid #fff;
+  margin-left: 6em;
+}
